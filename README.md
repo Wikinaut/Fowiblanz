@@ -1,2 +1,2 @@
 # Fowiblanz
- Foto-Bußgeld-Ordnungswidrigkeit-Blitzanzeige
+ Foto-Ordnungswidrigkeiten-Blitzanzeige
